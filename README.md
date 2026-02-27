@@ -128,7 +128,7 @@ Onde:
 ```$ git config --global alias.nome_do_alias comando```
 
 ```
-# Meus alias pessoais
+# Meus alias pessoais (atalhos)
 $ git config --global alias.cm commit
 $ git config --global alias.ck checkout
 $ git config --global alias.st status
@@ -145,3 +145,4 @@ $ git config --global alias.br branch
 - Visualizar todas as configurações
 
 ```$ git config --list```
+
